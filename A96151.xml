@@ -1,0 +1,425 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A necessary advertisement to a needfull fortification My former tables much good liking won, the fate of this, may in the like line run: with trading times, they suited; and (I guess) this with our sad condition suits no lesse. / By Wil: Webster.</title>
+            <author>Webster, William, fl. 1625-1634.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96151</idno>
+            <idno type="STC">Wing W1232</idno>
+            <idno type="STC">Thomason 669.f.8[14]</idno>
+            <idno type="STC">ESTC R212061</idno>
+            <idno type="EEBO-CITATION">99870714</idno>
+            <idno type="PROQUEST">99870714</idno>
+            <idno type="VID">161065</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161065)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f8[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A necessary advertisement to a needfull fortification My former tables much good liking won, the fate of this, may in the like line run: with trading times, they suited; and (I guess) this with our sad condition suits no lesse. / By Wil: Webster.</title>
+                  <author>Webster, William, fl. 1625-1634.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>in the yeere, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "As novv vve busily our selves apply,".</note>
+                  <note>Annotation on Thomason copy: "July 18th-".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christians --  Conduct of life --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:161065:1" rendition="simple:additions"/>
+            <head>A neceſſary Advertiſement to a needfull Fortification. </head>
+            <byline>BY <hi>WIL: WEBSTER.</hi>
+            </byline>
+            <epigraph>
+               <q>
+                  <l>My former Tables much good liking won,</l>
+                  <l>The fate of this, may in the like line, run:</l>
+                  <l>With Trading times, they ſuited; and (J gueſſe)</l>
+                  <l>This with our ſad condition ſuits no leſſe.</l>
+               </q>
+            </epigraph>
+            <lg>
+               <l>AS now vve buſily our ſelves apply,</l>
+               <l>(Sparing for neither care, nor coſt, nor paines)</l>
+               <l>Our Cities and our Towns to fortifie,</l>
+               <l>Becauſe a threatning danger ſo conſtraines:</l>
+               <l>Even ſo (<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſaſters threatning) tis our parts</l>
+               <l>'Gainſt their Aſſaults, to fortifie our hearts.</l>
+            </lg>
+            <lg>
+               <l>The ſettlement of outward peace among us</l>
+               <l>Hath been endeavoured for, but all in vaine:</l>
+               <l>Diſturbers of our peace, ſo much doe wrong us,</l>
+               <l>That hopes of peace vve ſcarce can entertaine:</l>
+               <l>Thoſe our endeavours having fruitleſſe bin,</l>
+               <l>Now let us ſeek to ſettle peace vvithin.</l>
+            </lg>
+            <lg>
+               <l>This inward peace ſhould firſt be ſought, indeed;</l>
+               <l>That, vvithout this, is but an empty thing:</l>
+               <l>This will ſupport the heart in time of need,</l>
+               <l>When that cannot a dram of comfort bring:</l>
+               <l>This vvill ſupply our vvant, vvhen that vve miſſe;</l>
+               <l>But that cannot ſupply our vvant of this.</l>
+            </lg>
+            <lg>
+               <l>He that upon his Maker rowles his mind,</l>
+               <l>And vvith ſure confidence caſts Anchor there:</l>
+               <l>Hee's in ſafe harbour, neither waves nor vvind,</l>
+               <l>Nor plundring Pyrats needeth he to feare.</l>
+               <l>For theſe cannot of inward peace bereave him,</l>
+               <l>Though deſtitute of outvvard helps they leave him.</l>
+            </lg>
+            <lg>
+               <l>To ſettle outward peace, the taske is hard,</l>
+               <l>For many muſt concur, that now doe jar;</l>
+               <l>This other eaſier is, in this regard,</l>
+               <l>To deale but with our ſelves, in this we are.</l>
+               <l>He that ſeeks inward peace, ſhall find the ſame,</l>
+               <l>If he can but bring his owne heart in frame.</l>
+            </lg>
+            <lg>
+               <l>And over our own hearts, we may (no doubt)</l>
+               <l>Prevaile, if we divine aſſiſtance crave:</l>
+               <l>And when this buſineſſe ſhall be brought about,</l>
+               <l>So, that this peace we in our boſomes have:</l>
+               <l>Then are we fortifide, and may defie</l>
+               <l>The worſt Malignants worſt malignity.</l>
+            </lg>
+            <lg>
+               <l>If we our hearts to ſuch a pitch can raiſe,</l>
+               <l>Patience, and confidence in God will arme us</l>
+               <l>'Gainſt the calamities of theſe ſad dayes,</l>
+               <l>They may aſſault, but cannot greatly harme us:</l>
+               <l>With loſſe of outward things we may diſpence,</l>
+               <l>Not making them, but God our confidence.</l>
+            </lg>
+            <lg>
+               <l>Our plenty, peace, and long tranquillity</l>
+               <l>Had almoſt brought us to be of the mind</l>
+               <l>That patience, faith, hope and humility</l>
+               <l>Were not ſo needfull, as we now doe find.</l>
+               <l>How mainly neceſſary, now doe ſeeme</l>
+               <l>Theſe graces, which were held in ſlight eſteem?</l>
+            </lg>
+            <lg>
+               <l>Gold in the cheſt, perhaps, was priz'd as much</l>
+               <l>As theſe in heart, and more deſir'd and ſought:</l>
+               <l>But gold it ſelfe will not abide the touch</l>
+               <l>As theſe will doe, when thus to tryall brought:</l>
+               <l>We ſhall doe well, if we have theſe about us,</l>
+               <l>Though all our helps doe faile, that are without us.</l>
+            </lg>
+            <lg>
+               <l>How ſoone may we in outward things be croſt?</l>
+               <l>How ſuddenly (of all) be diſpoſſeſt?</l>
+               <l>And comfort took in them, with them is loſt,</l>
+               <l>To make our God our portion then its beſt:</l>
+               <l>From whence may peace and comfort be deriv'd,</l>
+               <l>Whereof we know, vve cannot be depriv'd.</l>
+            </lg>
+            <lg>
+               <l>Our Land long time hath been like <hi>Goſhen</hi> Land,</l>
+               <l>Free from ſuch plagues our neighbour-nations felt;</l>
+               <l>Enjoying bleſſings from Gods liberall hand,</l>
+               <l>But we vvith him ingratefully have dealt:</l>
+               <l>And by our ſins have ſo provoakt his ire,</l>
+               <l>That now, it vvaſting is, vvith ſword and fire.</l>
+            </lg>
+            <lg>
+               <l>And in this caſe, now vvhat is to be done,</l>
+               <l>Since God is pleaſd, to ſhew himſelfe diſpleaſd?</l>
+               <l>From him (as from a foe) vve cannot run,</l>
+               <l>Then vve muſt ſeek to have his vvrath appeaſd:</l>
+               <l>And that's by offering up in ſacrifice</l>
+               <l>A broken heart, vvhich he vvill not deſpiſe.</l>
+            </lg>
+            <lg>
+               <l>And vve muſt pray; but if vve look to ſpeed,</l>
+               <l>Zeale, faith, and charity our prayers muſt vving:</l>
+               <l>It is not long—lip labour doth the deed,</l>
+               <l>So as a bleſſing downe on us to bring:</l>
+               <l>For like <hi>Baals</hi> Prieſts, vve long may cry and call,</l>
+               <l>If theſe be vvanting, yet not ſpeed at all.</l>
+            </lg>
+            <lg>
+               <l>He that (in Prayer) hath but a ſtammering tongue,</l>
+               <l>And ſhallow memory, and vvants the art</l>
+               <l>To vvord it ſmoothly, as he goes along,</l>
+               <l>Yet he may have a powerfull praying heart.</l>
+               <l>A currant method, takes the hearers eares;</l>
+               <l>But as for God, the heart he chiefly heares.</l>
+            </lg>
+            <lg>
+               <l>This I have here inſerted, that I may</l>
+               <l>Take off diſcouragement from ſuch as have</l>
+               <l>Fervent deſires, and zealous hearts to pray,</l>
+               <l>But vvant a verball nimbleneſſe, to crave.</l>
+               <l>Such hearts, acquit ſuch tongues, but certainly</l>
+               <l>The tongue cannot, the hearts defect, ſupply.</l>
+            </lg>
+            <lg>
+               <l>The grace of zealous heart is chiefe; and yet</l>
+               <l>The gift of ready tongue I value much:</l>
+               <l>And thoſe in vvhom this gift and grace are met,</l>
+               <l>I hold, a double honour, due to ſuch:</l>
+               <l>But if they ſevered be, in ſuch a caſe,</l>
+               <l>Better to vvant the gift, then vvant the grace.</l>
+            </lg>
+            <lg>
+               <l>Let us all labour for ſincerity,</l>
+               <l>That ſeaſons all, and that God moſt reſpecteth;</l>
+               <l>And let us ſeek to ſhun hypocriſie,</l>
+               <l>That poyſons all, and that God moſt rejecteth:</l>
+               <l>With bare appearances men pleaſed are,</l>
+               <l>But from mens wayes, Gods vvayes doe differ far.</l>
+            </lg>
+            <lg>
+               <l>VVe ſhould be bleſt, if vve pure hearts could get,</l>
+               <l>VVe ſhould ſee God, and ſee him vvork a vvonder:</l>
+               <l>Our Church and State he vvould in order ſet,</l>
+               <l>That like a broken clock are claſht aſunder.</l>
+               <l>VVhoſe joynts and vvheeles are ſcattered &amp; diſperſt</l>
+               <l>Not by the vvit of man to be reverſt.</l>
+            </lg>
+            <lg>
+               <l>For moſt unhappy differences are grown</l>
+               <l>Between our King and his high Parliament,</l>
+               <l>To ſuch a height, that none but God alone</l>
+               <l>Can reconcile, what's ſo in ſunder rent.</l>
+               <l>Oh that his ancient love to this our Land</l>
+               <l>Would move him now to take this vvork in hand!</l>
+            </lg>
+            <lg>
+               <l>It was not our deſerts, that him did move,</l>
+               <l>Truth, Peace, and Plenty, here, ſo long to ſend;</l>
+               <l>But it was his free mercie and his love,</l>
+               <l>And whom he loves, he loves unto the end.</l>
+               <l>If (of his love) thoſe bleſſings tokens were,</l>
+               <l>That (hee'l forſake us quite) we need not feare.</l>
+            </lg>
+            <lg>
+               <l>Then let our faith ſure footing take from hence,</l>
+               <l>He hath been good to us, we all doe know;</l>
+               <l>Whereon we well may ground this confidence,</l>
+               <l>That hee'l againe, in his good time, be ſo:</l>
+               <l>No doubt, if we, on him, with patience wait,</l>
+               <l>Hee'l bring us out, that brought us in this ſtrait.</l>
+            </lg>
+            <lg>
+               <l>He that did frame the world, moſt eaſily he</l>
+               <l>Can bring our Land againe in its due frame;</l>
+               <l>He can, and he will do't (no doubt) if we</l>
+               <l>Doe beg this bleſſing in his deare Sons name.</l>
+               <l>What ſo we aske, we ſhall obtaine, he ſaith,</l>
+               <l>If we (not wavering) doe aske in faith.</l>
+            </lg>
+            <lg>
+               <l>We muſt beleeve hee'l do't, but when hee'l do't,</l>
+               <l>That to his will and vviſdome vve muſt leave:</l>
+               <l>But we, meane while, by Prayer may urge him to't,</l>
+               <l>He bids us ask, and ſaith vve ſhall receive.</l>
+               <l>But for this mercie, firſt he us muſt fit,</l>
+               <l>Which being done, we then may look for it.</l>
+            </lg>
+            <lg>
+               <l>VVe did not thankfulneſſe enough expreſſe,</l>
+               <l>For that long happy peace our land enjoy'd:</l>
+               <l>VVe almoſt weary vvere of happineſſe,</l>
+               <l>And ſeem'd to be with peace and plenty cloy'd.</l>
+               <l>Therefore, by vvant of peace, vve now are taught</l>
+               <l>To know its vvorth, and prize it as vve ought.</l>
+            </lg>
+            <lg>
+               <l>And like as our unthankfulneſſe before</l>
+               <l>Appear'd, by our unworthy vvalking then;</l>
+               <l>So novv (if God vvill peace to us reſtore)</l>
+               <l>VVe muſt reſolve to be far better men:</l>
+               <l>So that our lives, more lively may expreſſe</l>
+               <l>(Then can our tongues) our hearts true thankfulnes.</l>
+            </lg>
+            <lg>
+               <l>VVould every one take up this reſolution,</l>
+               <l>And ſend up zealous prayers to Mercies throne;</l>
+               <l>God vvould forbeare his Angers execution,</l>
+               <l>And graciouſly, vvould be vvith us, at one.</l>
+               <l>And of one mind vvould make us, curing ſo</l>
+               <l>This our diſtemper, vvhich thus vvorks our vvoe.</l>
+            </lg>
+            <lg>
+               <l>O that our 'God' would cauſe his truth to ſhine</l>
+               <l>In all our hearts, that all may it embrace;</l>
+               <l>And then to peace vvould all our hearts encline,</l>
+               <l>And from amongſt us, all diſſention chace:</l>
+               <l>And that he vvould (leſt ruine ſhould betide us)</l>
+               <l>Into the vvay of peace be pleas'd to guide us.</l>
+            </lg>
+            <lg>
+               <l>But if Almighty God ſhall not be pleaſd</l>
+               <l>To turne to us, and cauſe us turne to him,</l>
+               <l>So that we ſhall not of this vvar be eas'd,</l>
+               <l>But ſtill be frighted with its viſage grim:</l>
+               <l>We muſt, if ſtill, we thus muſt be annoyd,</l>
+               <l>Prepare to beare what we cannot avoid.</l>
+            </lg>
+            <lg>
+               <l>And it behoves, that then vve ſeek to ſtore</l>
+               <l>Our hearts, with more then humane fortitude;</l>
+               <l>That being thruſt out from the quiet ſhore</l>
+               <l>Into the Maine, 'mongſt vvaves and billows rude:</l>
+               <l>VVe may above them keep, and as they riſe,</l>
+               <l>So raiſe our minds, and more the vvorld deſpiſe.</l>
+            </lg>
+            <lg>
+               <l>If God on us doe lay adverſity,</l>
+               <l>VVe thereunto muſt patiently ſubmit,</l>
+               <l>Becauſe our happineſſe doth rather lye</l>
+               <l>In patient bearing, then not feeling it.</l>
+               <l>Let patience have its perfect work, and we</l>
+               <l>The quiet fruits of righteouſneſſe ſhall ſee.</l>
+            </lg>
+            <lg>
+               <l>If our eſtates vve loſe, vve loſe but that</l>
+               <l>VVhich vve enjoyd but at the Donors will:</l>
+               <l>And therefore why ſhould vve repine thereat?</l>
+               <l>If vve vvere good, vve may be good men ſtill.</l>
+               <l>Croſſes, that are not mingled vvith a curſe,</l>
+               <l>Doe uſe to make men better, and not vvorſe.</l>
+            </lg>
+            <lg>
+               <l>Perhaps, ſome feare, if loſſes on them fall,</l>
+               <l>Their children then may want, and ſuffer need:</l>
+               <l>Yet they that give their children moſt of all,</l>
+               <l>Can ſurely ſettle nothing on their ſeed.</l>
+               <l>If God (vvhat vve bequeath) to them ſhall bleſſe,</l>
+               <l>It is enough for them, be't more or leſſe.</l>
+            </lg>
+            <lg>
+               <l>On earthly things vve muſt not ſet our love,</l>
+               <l>On pleaſure, profit, or on high eſtate,</l>
+               <l>For all is vanity, as all doe prove</l>
+               <l>One time or other, either ſoone or late:</l>
+               <l>For vvhat in all this vvorld doth pleaſing ſeem,</l>
+               <l>But firſt or laſt, it grows out of eſteem?</l>
+            </lg>
+            <lg>
+               <l>Children delight in every childiſh toy,</l>
+               <l>VVhich vvhen they once grow men, they doe reject;</l>
+               <l>And many men in many things doe joy,</l>
+               <l>VVhich yet before they die, they diſaffect:</l>
+               <l>But howſoere, when death once calls away,</l>
+               <l>That all is vanity, then all will ſay.</l>
+            </lg>
+            <lg>
+               <l>Then comfort needeth moſt, vvhen death doth call,</l>
+               <l>But vvorldly comforts then prove moſt unſound,</l>
+               <l>In profit theres no profit then at all,</l>
+               <l>In pleaſure then, no pleaſure can be found:</l>
+               <l>But when all comforts faile the vvorld holds deare,</l>
+               <l>A heart endued with grace it ſelfe will cheare.</l>
+            </lg>
+            <lg>
+               <l>VVhich grace, he grant us, that hath dearly bought us,</l>
+               <l>And daily in our hearts the ſame increaſe,</l>
+               <l>Till by his bleſſed guidance he hath brought us</l>
+               <l>To everlaſting happineſſe and peace:</l>
+               <l>To him be praiſe, whoſe mercie faileth never,</l>
+               <l>By Angels and by men, aſcrib'd for ever.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London in the yeere, 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
